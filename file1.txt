@@ -2,8 +2,8 @@ TEMPLATE 1 FILE 1
 
 -- separator --
 
-val1 is template1-val1
+val1 is template1-val1-update1
 
 -- another separator --
 
-val2 is template1-val2
+val2 is template1-val2-update1
