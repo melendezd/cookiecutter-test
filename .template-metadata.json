@@ -1,0 +1,26 @@
+[
+  {
+    "source": {
+      "type": "github",
+      "repo_parent": "melendezd",
+      "repo_name": "cookiecutter-remote-test",
+      "path": "template-1"
+    },
+    "parameters": {
+      "val1": "template1-val1",
+      "val2": "template1-val2"
+    }
+  },
+  {
+    "source": {
+      "type": "github",
+      "repo_parent": "melendezd",
+      "repo_name": "cookiecutter-remote-test",
+      "path": "template-2"
+    },
+    "parameters": {
+      "val1": "template2-val1",
+      "val2": "template2-val2"
+    }
+  }
+]
