@@ -2,7 +2,7 @@ TEMPLATE 1 FILE 1
 
 -- separator --
 
-val1 is first value - updated
+val1 is first value - updated again again
 
 -- another separator --
 
