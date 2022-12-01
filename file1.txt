@@ -1,0 +1,9 @@
+TEMPLATE 1 FILE 1
+
+-- separator --
+
+val1 is first value - updated again again
+
+-- another separator --
+
+val2 is second value
